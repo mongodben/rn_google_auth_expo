@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "968419352263",
+    "project_id": "realm-test-edecb",
+    "storage_bucket": "realm-test-edecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968419352263:android:e8c734bb1b69297499e8e2",
+        "android_client_info": {
+          "package_name": "com.mongodb.realm.test_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968419352263-4h3o5fedomkcff68k46s83h00fn7v5vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mongodb.realm.test_auth",
+            "certificate_hash": "3064575a5d175c7031c30089579dddc085034df8"
+          }
+        },
+        {
+          "client_id": "968419352263-jpmhu4q7pno8c2nsncmr2debonjp1ebh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mongodb.realm.test_auth",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "968419352263-ii03p4tcm2gmh6q5f9hi48lld4vojaqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp0zDjRkmK2-SEDUK6avK7eP_NsZUSxIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968419352263-ii03p4tcm2gmh6q5f9hi48lld4vojaqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
